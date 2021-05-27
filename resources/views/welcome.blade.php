@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Welcome To Report Details Employee</title>
+        <title>Welcome To Report Details Student</title>
 
         <!-- Fonts -->
 		<!-- CSS only -->
