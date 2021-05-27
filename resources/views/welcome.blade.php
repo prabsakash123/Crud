@@ -22,7 +22,7 @@
     </head>
     <body class="antialiased">
 	<br>
-        <center>  <h1>Welcome To Report Details Employee</h1>
+        <center>  <h1>Welcome To Report Details Student</h1>
 		<br><div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
             @if (Route::has('login'))
                 <div class="hidden fixed top-0 right-0 px-6 py-4 sm:block">

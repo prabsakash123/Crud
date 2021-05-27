@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Welcome To Report Details student</title>
+        <title>Welcome To Report Details Student</title>
 
         <!-- Fonts -->
 		<!-- CSS only -->
@@ -27,7 +27,7 @@
             @if (Route::has('login'))
                 <div class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
                     @auth
-                        <a href="{{ url('/todu') }}" class="text-sm text-gray-700 underline" class="btn btn-warning">Open To Employee Details</a>
+                        <a href="{{ url('/todu') }}" class="text-sm text-gray-700 underline" class="btn btn-warning">Open To Student Details</a>
                     @else
                         <a href="{{ route('login') }}" class="text-sm text-gray-700 underline">Log in</a>
 
